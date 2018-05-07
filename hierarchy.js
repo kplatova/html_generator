@@ -1,3 +1,7 @@
+/*
+* Деревья
+*/
+
 const hasZero = (list) => {
   if (isEmpty(list)) {
     return false;
